@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Salut, je suis Mohamed Chettah, un développeur web en formation et en alternance, avec une passion débordante pour tout ce qui touche au développement web. En plus de mes études et de mon expérience en entreprise, je mène une carrière de freelance, ce qui me permet d'élargir constamment mes compétences et de travailler sur une variété de projets passionnants.<br><br>Basé en France, je trouve dans l'alternance et le freelance les moyens idéaux pour mettre en pratique mes connaissances théoriques, tout en continuant à apprendre et à grandir dans ce domaine dynamique. Ma quête d'apprentissage continu et mon engagement envers le développement de solutions web innovantes sont les moteurs de mon parcours professionnel.</p>
+<p align="left">Je suis Mohamed Chettah, un développeur web en formation et en alternance, avec une passion débordante pour tout ce qui touche au développement web. En plus de mes études et de mon expérience en entreprise, je mène une carrière de freelance, ce qui me permet d'élargir constamment mes compétences et de travailler sur une variété de projets passionnants.<br><br>Basé en France, je trouve dans l'alternance et le freelance les moyens idéaux pour mettre en pratique mes connaissances théoriques, tout en continuant à apprendre et à grandir dans ce domaine dynamique. Ma quête d'apprentissage continu et mon engagement envers le développement de solutions web innovantes sont les moteurs de mon parcours professionnel.</p>
 
 ###
 
