@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="left">Salut 👋 Comment ça va ?</h1>
 
-<!--
-**mohamedDev69/mohamedDev69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Salut, je suis Mohamed Chettah, un développeur web en formation et en alternance, avec une passion débordante pour tout ce qui touche au développement web. En plus de mes études et de mon expérience en entreprise, je mène une carrière de freelance, ce qui me permet d'élargir constamment mes compétences et de travailler sur une variété de projets passionnants.<br><br>Basé en France, je trouve dans l'alternance et le freelance les moyens idéaux pour mettre en pratique mes connaissances théoriques, tout en continuant à apprendre et à grandir dans ce domaine dynamique. Ma quête d'apprentissage continu et mon engagement envers le développement de solutions web innovantes sont les moteurs de mon parcours professionnel.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">À propos de moi</h2>
+
+###
+
+<p align="left">✨ Je créé des bugs depuis Septembre 2019<br>📚 J'apprend actuellement VueJs et NuxtJs<br>🎯 Objectifs : Atteindre l'excellence aussi bien en développement front-end qu'en back-end.</p>
+
+###
+
+<h2 align="left">Je code avec</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mohamedDev69/mohamedDev69/output/snake.svg" alt="Snake animation" />
+
+###
