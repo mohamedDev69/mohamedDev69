@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Je créé des bugs depuis Septembre 2019<br>📚 J'apprend actuellement VueJs et NuxtJs<br>🎯 Objectifs : Atteindre l'excellence aussi bien en développement front-end qu'en back-end.</p>
+<p align="left">✨ Je créé des bugs depuis Septembre 2019<br>📚 J'apprend actuellement VueJs et Nuxt 3<br>🎯 Objectifs : Atteindre l'excellence aussi bien en développement front-end qu'en back-end.</p>
 
 ###
 
@@ -34,8 +34,3 @@
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/mohamedDev69/mohamedDev69/output/snake.svg" alt="Snake animation" />
-
-###
